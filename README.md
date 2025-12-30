@@ -11,7 +11,6 @@ I enjoy building simple projects using C, C++, HTML, and CSS.
 - C, C++, Python
 - Data Structures & Algorithms
 - HTML, CSS
-- Web Development Basics
 
 ## Projects
 ### Student Record Management System
